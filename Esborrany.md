@@ -14,7 +14,7 @@ Com a sistema operatiu principal dels servidors utilitzarem Ubuntu Server, basat
 Endolls 220 V del camió per tota l’electricitat.
 Star Links posats al camió.
 Infraestructura del camió perquè entri totes les coses i no interfereixi amb el medi ambient i els carrers per passar amb el camió.
-Plaques solars sota el camió per alimentar una part de tot el que utilitzarem.
+Plaques solars per alimentar una part de tot el que utilitzarem.
 El manteniment de les plaques solars amb neteja periòdicament i costos.
 Els costos per l’electricitat, llum ventilació i els seus manteniments.
 Aïllament acústic per dins del camió.
