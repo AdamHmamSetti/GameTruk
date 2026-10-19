@@ -7,6 +7,8 @@ Ens plantegem la utilizació de sis connexions Starlink de 300 Mbps. Aquestes co
 L’infrastuctura de xarxa estara formada switshes, WI-FI i connexions Ethernet. Els ordinador gaming es conectaran a conexió ethernet.
 
 Com a sistema operatiu dels servidors utilizarem ubuntu server, basat en el kernel de linux. Aquest sistema ens deixara gestionar serveis en xarxa , usuaris, permisos i seguretat.
+
+
 ![Game Truck](camiongaming.png)
 
 (Electricitat i Infraestructura)
