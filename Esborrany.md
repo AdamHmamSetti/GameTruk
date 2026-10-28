@@ -19,7 +19,6 @@ El manteniment de les plaques solars amb neteja periòdicament i costos.
 Els costos per l’electricitat, llum ventilació i els seus manteniments.
 Aïllament acústic per dins del camió.
 Llums led.
-![Game Truck](Electricitat_i_Infraestructura.png)
 
 
 (Gaming i Equipament)
@@ -29,7 +28,6 @@ Zona Vr amb ulleres realitat virtual x2 que sortirà més de preu
 Pantalla visible fora del camió pels següents tornejos, posar publicitat o per jocs com el Just Dance.
 Consoles retro.
 Llicències per les consoles i també pels jocs que hi hagin.
-![Game Truck](Gaming_i_Equipament.png)
 
 
 (Experiència del Client i Decoració)
@@ -39,7 +37,6 @@ Petites begudes i menjar, snacks per la gent.
 seients ergonòmics fàcils de netejar i còmodes per la gent.
 Lloc on la gent pugui fer fotos per les xarxes socials.
 Packs per la gent que compleix anys amb coses personalitzades.
-![Game Truck](Experiència_del_Client_i_Decoració.png)
 
 
 (Personal, Preus i Web)
@@ -48,4 +45,3 @@ Personal per parlar amb la gent decidir horaris, quan juga la gent i els preus q
 Preus i serveis.
 Publicitat dins de la pàgina web.
 Reserves directament per la pàgina web.
-![Game Truck](Personal_Preus_i_Web.png)
