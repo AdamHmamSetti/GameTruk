@@ -48,3 +48,13 @@ Personal per parlar amb la gent decidir horaris, quan juga la gent i els preus q
 Preus i serveis.
 Publicitat dins de la pàgina web.
 Reserves directament per la pàgina web.
+
+
+
+
+
+En el que ens centrarem en el nostre projecte és en un sistema de Channel Bonding per ajuntar totes les xarxes de Starlink per aconseguir ajuntar-les totes en una sola.
+
+També ens encarregarem amb Ubuntu server i amb un hub d'Ethernet en un ordinador fer servir això amb una petita demostració de què funciona bé, fent servir el Channel Bonding.
+ 
+Fer una pàgina del nostre projecte per donar a conèixer a la gent que la vegi de què tracta, amb informació del que és el GameTruk.
