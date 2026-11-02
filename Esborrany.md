@@ -1,13 +1,14 @@
-Aquest projecte consisteix un camió adaptat a videojocs i entrenament de torneijos. L’objectiu principal es crear un entorn on les persones puguin gaudir de diferents videojocs amb amics, utilizant consoles i ordinadors gaming.
+Aquest projecte consisteix en la creació d’una petita empresa, que és un camió gaming, on la gent podrà venir a jugar a videojocs amb els seus amics, fer tornejos i passar-ho bé.
 
-El Game Truk disposara d’una infraestructura informàtica, formada per una xarxa locals, servidors, equips, consoles i sistemes de comunicació.
+El sector on es trobarà seran en diferents festivitats en Pobles i Ciutats.
 
-Ens plantegem la utilizació de sis connexions Starlink de 300 Mbps. Aquestes connexions es gestionaran en un servidor (Ubuntu server) , utilizant la tecinca del Channel Bonding.
+La idea és tenir un espai divertit perquè la gent pugui jugar i competir.
 
-L’infrastuctura de xarxa estara formada switshes, WI-FI i connexions Ethernet. Els ordinador gaming es conectaran a conexió ethernet.
+Perquè tot funcioni bé, necessitarem muntar una infraestructura amb una xarxa local, servidors, ordinadors, consoles i connexions a internet.
 
-Com a sistema operatiu dels servidors utilizarem ubuntu server, basat en el kernel de linux. Aquest sistema ens deixara gestionar serveis en xarxa , usuaris, permisos i seguretat.
+Per tenir una bona connexió utilitzàrem sis Starlink de 300 Mbps, els gestionarem amb un Ubuntu Server utilitzant el Channel Bonding que serveix combinar diferents connexions.
 
+La xarxa estarà formada per switches, WI-FI cable Ethernet. Els PC gaming anirà amb cable Ethernet.
 
 ![Game Truck](camiongaming.png)
 
