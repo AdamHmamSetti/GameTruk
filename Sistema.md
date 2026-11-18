@@ -1,15 +1,15 @@
 <h1> Descripció del sistema </h1>
 
-<p>El nostre projecte es diu GameTruk consisteix en una petita empresa dedicada en l'entreteniment i de videojocs. L'empresa disposa de diversos camions adaptats a l'espai gaming, on el client podran jugar amb els seus amics</p>
-<p>Cada camió tindrà dos treballadors: un tècnic, encarregat de comprovar i mantenit que tota la infraestructura funcioni correctament, i una persona d'atenció al client.</p>
-<p>Cada camió tindrà connexió a internet a traves de antenes Starlink.
-El projecte també tindrà un administrador que treballarà de manera remota i que s'encarregarà de supervisar tots els camions.</p>
+<p>El nostre projecte es diu GameTruk. Consisteix en una petita empresa dedicada en l'entreteniment i de videojocs. L'empresa disposa de diversos camions adaptats a l'espai gaming, on els clients podran jugar amb els seus amics</p>
+<p>Cada camió te dos treballadors: un tècnic, encarregat de comprovar i mantenit que tota la infraestructura funcioni correctament, i una persona d'atenció al client.</p>
+<p>Cada camió te connexió a internet a traves de antenes Starlink.
+El projecte també te un administrador que treballa de manera remota i que s'encarregà de supervisar tots els camions.</p>
 
 <h1>Composició del sistema</h1>
 
 <ul>
-     <li>Comunicacións per camió: S'encarrega de donar connexió a internet i permet la comunicació entre els dispositius de cada camió</li>
-     <li>Jocs per camió: Conjunt d'equips i programes que permeten als clients jugar</li>
+     <li>Comunicacións ( per camió): S'encarrega de donar connexió a internet i permet la comunicació entre els dispositius de cada camió</li>
+     <li>Jocs (per camió): Conjunt d'equips i programes que permeten als clients jugar</li>
      <li>Web privada: Sistema intern que permet als tècnics comunicar incidències (per camió) a l'administrador</li>
      <li>Web Publica: Pàgina web per als clients i l'encarregat per veure la informació i l'encarregat podra veure les reserves que s'han fet</li>
      <li> Monitoratge: Sistema que permet a l'admin supervisar l'estat de diferents camions</li>
